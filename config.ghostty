@@ -11,5 +11,5 @@ keybind = alt+h=goto_split:left
 keybind = alt+l=goto_split:right
 
 # font
-font-family = "ZedMono NFM"
-font-size = 14
+font-family = "Terminess Nerd Font"
+font-size = 17
